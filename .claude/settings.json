@@ -1,0 +1,25 @@
+{
+  "skipDangerousModePermissionPrompt": true,
+  "permissions": {
+    "allow": [
+      "mcp__warp__*",
+      "mcp__claude_ai_Supabase__*",
+      "mcp__claude_ai_Linear__*",
+      "mcp__claude_ai_Gmail__*",
+      "mcp__claude_ai_Google_Calendar__*",
+      "mcp__claude_ai_Google_Drive__*",
+      "mcp__claude_ai_HubSpot__*",
+      "Bash(*)",
+      "Read(*)",
+      "Edit(*)",
+      "Write(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "Agent(*)",
+      "Workflow(*)",
+      "NotebookEdit(*)",
+      "TodoRead(*)",
+      "TodoWrite(*)"
+    ]
+  }
+}
